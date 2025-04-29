@@ -25,29 +25,29 @@ Welcome to **Streamlit-2**, a simple yet powerful Streamlit application to **upl
 ├── requirements.txt
 └── README.md
 ```
-![image](https://github.com/user-attachments/assets/b46295b9-62be-4822-82ce-821bcaf7d293)
+<img width="278" alt="image" src="https://github.com/user-attachments/assets/24ddf38f-c70d-452b-88b3-0fcdc44c8fde" />
+
 
 ---
 
 ## 🚀 How to Run
 
 ### 1. Clone the repository
-```bash
-git clone https://github.com/ritu-pixel/Streamlit-2.git
-cd Streamlit-2
+``
+
 ```
 
 ### 2. Install dependencies
 ```bash
 pip install -r requirements.txt
 ```
-![image](https://github.com/user-attachments/assets/a4429c5b-38a2-443e-b701-e707849eaa11)
+
 
 ### 3. Run the Streamlit app
 ```bash
 streamlit run main.py
 ```
-![image](https://github.com/user-attachments/assets/318e6a1f-d714-4797-8e52-7285f85e8717)
+
 
 ---
 
@@ -57,16 +57,23 @@ streamlit run main.py
 ```bash
 docker build -t streamlit2-app .
 ```
+<img width="1013" alt="image" src="https://github.com/user-attachments/assets/2c29f700-fcbe-4003-ab0e-0d16d1ddc7fc" />
+
 
 2. **Run the Docker container**
 ```bash
 docker run -p 8501:8501 streamlit2-app
 ```
-![Screenshot 2025-01-29 115120](https://github.com/user-attachments/assets/3c705bb4-49f5-4db6-b2e4-c7519ef21016)
+<img width="925" alt="image" src="https://github.com/user-attachments/assets/d427fb22-7dcc-47e9-9363-0e22c09a1b44" />
+
 
 Then, open your browser and visit:  
 👉 **http://localhost:8501**
-![image](https://github.com/user-attachments/assets/00dbdb36-9583-4966-bf12-ad7ae26e92ed)
+
+<img width="1022" alt="image" src="https://github.com/user-attachments/assets/9bea7e06-df32-458d-8cec-b3ad2e24029f" />
+<img width="1012" alt="image" src="https://github.com/user-attachments/assets/24a40739-d3f1-4dc0-b440-3471910ec4f0" />
+
+
 
 ---
 
