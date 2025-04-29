@@ -3,7 +3,7 @@ Streamlit Interactive App.
 
 Welcome to **Streamlit-2**, a simple yet powerful Streamlit application to **upload**, **explore**, and **visualize** your data!
 
-![Streamlit Demo](https://raw.githubusercontent.com/ritu-pixel/Streamlit-2/main/your-screenshot-file.png)
+
 
 ## 📂 Features
 - Upload your own CSV file (up to 200MB)
