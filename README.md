@@ -93,13 +93,7 @@ Then, open your browser and visit:
 
 ---
 
-## ✨ Acknowledgements
-Built with ❤️ using [Streamlit](https://streamlit.io/).
 
 ---
 
-## 🔗 Connect
-- GitHub: [ritu-pixel](https://github.com/ritu-pixel)
 
-
-![image](https://github.com/user-attachments/assets/6412aa24-a90d-4a73-bff2-8d625df79694)
